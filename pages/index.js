@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          URL for image below is rewritten to actual URL
         </h1>
         <img src="https://nextjs-redirect-binary.vercel-support.app/mail/image.jpg" />
       </main>
